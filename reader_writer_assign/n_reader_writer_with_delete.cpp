@@ -1,8 +1,4 @@
-/*
-YUKTI KHURANA
-2017UCP1234
 
-*/
 
 #include <bits/stdc++.h>
 #include <thread>

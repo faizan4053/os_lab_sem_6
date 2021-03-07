@@ -1,8 +1,3 @@
-/*
-YUKTI KHURANA 
-2017UCP1234
-
-*/
 #include <iostream>
 #include <unistd.h>
 #include <sys/mman.h>
